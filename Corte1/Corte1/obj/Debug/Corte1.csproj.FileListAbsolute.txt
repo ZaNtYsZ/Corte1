@@ -1,0 +1,5 @@
+C:\Users\mena4\Documents\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.AssemblyReference.cache
+C:\Users\mena4\Documents\Corte1\Corte1\Corte1\obj\Debug\Corte1.Form1.resources
+C:\Users\mena4\Documents\Corte1\Corte1\Corte1\obj\Debug\Corte1.Properties.Resources.resources
+C:\Users\mena4\Documents\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.GenerateResource.cache
+C:\Users\mena4\Documents\Corte1\Corte1\Corte1\obj\Debug\Corte1.csproj.CoreCompileInputs.cache
