@@ -1,5 +1,7 @@
 ﻿using System;
 
+namespace Corte1
+
 public class Operacion
 {
     public int CalcularEdad(Persona persona)

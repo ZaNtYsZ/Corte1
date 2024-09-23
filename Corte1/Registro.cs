@@ -1,5 +1,7 @@
 ﻿using System;
 
+namespace corte1
+
 public class Registro
 {
     private Persona[] personas;
