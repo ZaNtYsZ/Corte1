@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|NewFolder1{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|NewFolder1{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|solutionrelative:Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|c:\\users\\mena4\\documents\\corte1\\corte1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|solutionrelative:corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:15:47.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Form1.cs",
+              "RelativeDocumentMoniker": "Corte1\\Form1.cs",
+              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Corte1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:14:22.589Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

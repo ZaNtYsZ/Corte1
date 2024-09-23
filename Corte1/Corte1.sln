@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Corte1", "Corte1\Corte1.csproj", "{23B2028D-67DB-4230-9572-96EC0AE011A9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Clases", "Clases", "{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}"
+	ProjectSection(SolutionItems) = preProject
+		Persona.cs = Persona.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23B2028D-67DB-4230-9572-96EC0AE011A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23B2028D-67DB-4230-9572-96EC0AE011A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23B2028D-67DB-4230-9572-96EC0AE011A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23B2028D-67DB-4230-9572-96EC0AE011A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9E9DCF1-3228-4CC2-9A0C-588BDD0091D5}
+	EndGlobalSection
+EndGlobal
