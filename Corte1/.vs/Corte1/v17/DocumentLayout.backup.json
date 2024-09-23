@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|c:\\users\\mena4\\documents\\corte1\\corte1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|solutionrelative:corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|solutionrelative:Registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|solutionrelative:Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|solutionrelative:corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|c:\\users\\mena4\\documents\\corte1\\corte1\\corte1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\corte1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|solutionrelative:corte1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|solutionrelative:Operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|c:\\users\\mena4\\documents\\corte1\\corte1\\corte1\\clases\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|solutionrelative:corte1\\clases\\registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|c:\\users\\mena4\\documents\\corte1\\corte1\\corte1\\clases\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|solutionrelative:corte1\\clases\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|c:\\users\\mena4\\documents\\corte1\\corte1\\corte1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|solutionrelative:corte1\\clases\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,6 +36,32 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registro.cs",
+              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Clases\\Registro.cs",
+              "RelativeDocumentMoniker": "Corte1\\Clases\\Registro.cs",
+              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Clases\\Registro.cs",
+              "RelativeToolTip": "Corte1\\Clases\\Registro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:05:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Clases\\Operacion.cs",
+              "RelativeDocumentMoniker": "Corte1\\Clases\\Operacion.cs",
+              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Clases\\Operacion.cs",
+              "RelativeToolTip": "Corte1\\Clases\\Operacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T15:04:15.333Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -50,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Corte1\\Form1.Designer.cs",
@@ -63,41 +89,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Form1.cs",
               "RelativeDocumentMoniker": "Corte1\\Form1.cs",
               "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Form1.cs",
               "RelativeToolTip": "Corte1\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAtwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-23T14:34:43.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Registro.cs",
-              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Registro.cs",
-              "RelativeDocumentMoniker": "Registro.cs",
-              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Registro.cs",
-              "RelativeToolTip": "Registro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:20:06.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Persona.cs",
-              "RelativeDocumentMoniker": "Persona.cs",
-              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Persona.cs",
-              "RelativeToolTip": "Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:15:47.595Z",
               "EditorCaption": ""
             },
             {
@@ -115,14 +115,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Operacion.cs",
-              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Operacion.cs",
-              "RelativeDocumentMoniker": "Operacion.cs",
-              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Operacion.cs",
-              "RelativeToolTip": "Operacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Clases\\Persona.cs",
+              "RelativeDocumentMoniker": "Corte1\\Clases\\Persona.cs",
+              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Corte1\\Clases\\Persona.cs",
+              "RelativeToolTip": "Corte1\\Clases\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-23T14:26:39.908Z",
+              "WhenOpened": "2024-09-23T15:04:47.737Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,5 @@
-﻿using Microsoft.Win32;
+﻿using Corte1.Clases;
+using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;

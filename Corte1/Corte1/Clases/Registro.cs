@@ -1,47 +1,48 @@
 ﻿using System;
 
 namespace corte1
-
-public class Registro
 {
-    private Persona[] personas;
-    private int contador;
-
-    public Registro()
+    public class Registro
     {
-        personas = new Persona[30];
-        contador = 0;
-    }
+        private Persona[] personas;
+        private int contador;
 
-    public void AgregarPersona(Persona persona)
-    {
-        if (contador < 30)
+        public Registro()
         {
-            personas[contador] = persona;
-            contador++;
+            personas = new Persona[30];
+            contador = 0;
         }
-        else
+
+        public void AgregarPersona(Persona persona)
         {
-            throw new Exception("No se pueden agregar más personas, el registro está lleno.");
+            if (contador < 30)
+            {
+                personas[contador] = persona;
+                contador++;
+            }
+            else
+            {
+                throw new Exception("No se pueden agregar más personas, el registro está lleno.");
+            }
         }
-    }
 
-    public Persona ObtenerPersona(int index)
-    {
-        if (index >= 0 && index < contador)
+        public Persona ObtenerPersona(int index)
         {
-            return personas[index];
+            if (index >= 0 && index < contador)
+            {
+                return personas[index];
+            }
+            throw new Exception("Persona no encontrada.");
         }
-        throw new Exception("Persona no encontrada.");
-    }
 
-    public int TotalPersonas()
-    {
-        return contador;
-    }
+        public int TotalPersonas()
+        {
+            return contador;
+        }
 
-    public Persona[] ObtenerTodasLasPersonas()
-    {
-        return personas;
+        public Persona[] ObtenerTodasLasPersonas()
+        {
+            return personas;
+        }
     }
 }
