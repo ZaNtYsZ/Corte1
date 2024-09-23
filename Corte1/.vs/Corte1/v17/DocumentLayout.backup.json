@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|solutionrelative:Registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|solutionrelative:Operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{23B2028D-67DB-4230-9572-96EC0AE011A9}|Corte1\\Corte1.csproj|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\corte1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|solutionrelative:Persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|Clases{A07972CF-6A1F-4FA2-8ACA-8F58A6D15EF1}|solutionrelative:Registro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Operacion.cs",
+              "RelativeDocumentMoniker": "Operacion.cs",
+              "ToolTip": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Operacion.cs",
+              "RelativeToolTip": "Operacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T14:26:39.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Registro.cs",
               "DocumentMoniker": "C:\\Users\\mena4\\Documents\\Corte1\\Corte1\\Registro.cs",
               "RelativeDocumentMoniker": "Registro.cs",
